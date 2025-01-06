@@ -1,0 +1,2 @@
+http://127.0.0.1:8000/items POST {"name": "siege_test", "description": "Example test"}
+http://127.0.0.1:8000/items
